@@ -12,10 +12,26 @@ A lot of inspiration is taken from Deej (check it out [here](https://github.com/
 
 ## Images
 
+Case
+
 <img width="1480" height="474" alt="image" src="https://github.com/user-attachments/assets/c344e211-c53a-4b69-9e07-1f23d9eba82a" />
+
+Routing
+
 <img width="1517" height="650" alt="image" src="https://github.com/user-attachments/assets/2fc837ad-4f38-4159-81d8-d2478f8009d7" />
+
+PCB
+
 <img width="670" height="332" alt="image" src="https://github.com/user-attachments/assets/bef22d42-cd86-4b94-944f-320174ceff01" />
+
+Schematic
+
 <img width="1647" height="1152" alt="image" src="https://github.com/user-attachments/assets/635c0854-d443-4656-a991-a4cb5ba01362" />
+
+Full Assembly
+
+<img width="1471" height="792" alt="image" src="https://github.com/user-attachments/assets/43ffb8a9-ddc5-4b48-89c9-82ade61f0b01" />
+<img width="1350" height="743" alt="image" src="https://github.com/user-attachments/assets/dd302db9-1192-44b3-ad22-2fb41e81ee76" />
 
 ## BOM
 
